@@ -1,0 +1,12 @@
+.card-container {
+    background-color: rgb(242, 147, 130);
+    padding: 10px;
+    transition: transform 0.25s ease-out;
+    cursor: pointer;
+}
+.card-container h2 {
+    color: aqua;
+}
+.card-container:hover {
+    transform: scale(1.2);
+}

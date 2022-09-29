@@ -1,0 +1,11 @@
+.card-list-container {
+    margin: 5% 10%;
+    width: 80%
+}
+
+.card-list {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    width: 80vw;
+}

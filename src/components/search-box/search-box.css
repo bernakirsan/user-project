@@ -1,0 +1,9 @@
+.search-box {
+    border: none;
+    height: 50px;
+    font-size: 20px;
+    text-align: center;
+}
+.search-box:focus {
+    outline:none;
+}
